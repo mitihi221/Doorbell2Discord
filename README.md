@@ -5,3 +5,5 @@
 
 
 ![配線](schematics.jpg)
+
+![動作](demo.mp4)
