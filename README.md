@@ -2,4 +2,4 @@
 玄関チャイムが鳴ったら Discord Webhook で通知します。(Raspberry Pi Pico W 使用)
 
 
-![配線](Doorbell2Discord/schematics.jpg)
+![配線](schematics.jpg)
